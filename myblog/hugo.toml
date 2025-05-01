@@ -1,0 +1,4 @@
+baseURL = 'https://jooguu.github.io/'
+languageCode = 'en-us'
+title = '4 laboras Hugo'
+theme = "hugo-coder"
